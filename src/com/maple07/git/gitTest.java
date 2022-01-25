@@ -7,7 +7,6 @@ public class gitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("master分支合并冲突");
-
-
+        System.out.println("hotfix 冲突合并");
     }
 }
