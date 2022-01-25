@@ -9,7 +9,7 @@ public class gitTest {
         System.out.println("master分支合并冲突");
         System.out.println("hotfix 冲突合并");
         System.out.println("GitHub Share project");
-
+        System.out.println("GitHub 修改Pull拉取测试");
 
     }
 }
